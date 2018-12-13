@@ -31,4 +31,4 @@ Please also try to attach a screenshot, so it is easier to recognise the problem
 
 ## Screenshots
 
-![Screenshot](https://github.com/philplckthun/Adventurous-Syntax/raw/master/screenshot.jpg)
+![Screenshot](https://github.com/Unintendedsideeffects/Adventurous-Syntax-Black/raw/master/screenshot.png)
