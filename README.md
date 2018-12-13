@@ -1,8 +1,11 @@
-# Adventurous Syntax theme
+# Adventurous Syntax black theme
 
-A dark Atom theme using common colours often seen in the cult series **Adventure Time**.
+A black Atom theme using common colours often seen in the cult series **Adventure Time**.
 
-![Adventure Time!](http://img1.wikia.nocookie.net/__cb20120811190505/adventuretimewithfinnandjake/images/2/24/Ci_banner_2k12mar20_adventuretime.jpeg)
+This theme is a black version of my favorite theme of all time.
+
+
+![Adventure Time!](http://vignette4.wikia.nocookie.net/adventuretimewithfinnandjake/images/8/89/S4_E26_The_Lich's_head.PNG)
 
 Based on the Base16 Tomorrow Dark syntax theme by the Atom team.
 
