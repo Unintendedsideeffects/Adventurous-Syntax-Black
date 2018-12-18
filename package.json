@@ -1,9 +1,9 @@
 {
-  "name": "adventurous-syntax",
+  "name": "adventurous-syntax-black",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "Dark theme for Atom based on the Adventure Time Color Palette",
-  "repository": "https://github.com/philplckthun/Adventurous-Syntax",
+  "description": "Black theme for Atom based on the Adventure Time Color Palette",
+  "repository": "https://github.com/Unintendedsideeffects/Adventurous-Syntax-Black",
   "license": "MIT",
   "engines": {
     "atom": ">0.100.0"
