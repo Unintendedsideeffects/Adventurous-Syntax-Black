@@ -11,6 +11,7 @@ I use it with the material UI theme.
 ## Installation
 
 You should be able to install this with this link:
+
 https://marketplace.visualstudio.com/items?itemName=unintendedsideeffects.adventurous-syntax-black
 
 ## Screenshots
