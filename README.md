@@ -1,6 +1,6 @@
 # Adventurous Syntax black theme
 
-A black Atom theme using common colours often seen in the cult series **Adventure Time**.
+A black vscode (originally Atom) theme using common colours often seen in the cult series **Adventure Time**.
 
 This theme is a black version of my favorite theme of all time.
 
@@ -10,11 +10,9 @@ I use it with the material UI theme.
 
 ## Installation
 
-Clone this repo in your atom packages folder
-
-After installation it can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_Syntax Themes_ drop-down menu.
+You should be able to install this with this link:
+vscode:extension/unintendedsideeffects.adventurous-syntax-black
+https://marketplace.visualstudio.com/items?itemName=unintendedsideeffects.adventurous-syntax-black
 
 ## Screenshots
 
